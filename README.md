@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @purvanshgarg
 - 👀 I’m interested in programming,machine learning ,artifical intelligence and natural language processing
-- 🌱 I’m currently learning aws web services
-- 💞️ I’m looking to collaborate on any project realted to my field
+- 🌱 I’m currently learning SQL and Databases
+- 💞️ I’m looking to collaborate on any project realted to my field and I am open to work
 - 📫 How to reach me ...https://www.linkedin.com/in/purvansh-garg-93350459/
 
 <!---
