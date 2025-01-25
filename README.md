@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purvanshgarg
 - 👀 I’m interested in programming,machine learning ,artifical intelligence and natural language processing
-- 🌱 I’m currently learning SQL and Databases
+- 🌱 I’m currently learning NoSQL and MongoDB
 - 💞️ I’m looking to collaborate on any project related to my field and I am open to work
 - 📫 How to reach me ...https://www.linkedin.com/in/purvanshgarg/
 
